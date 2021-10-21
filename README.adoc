@@ -1,0 +1,3 @@
+== Networktest.ch desktop app releases
+
+This repository is used for releases of the networktest.ch desktop app.
